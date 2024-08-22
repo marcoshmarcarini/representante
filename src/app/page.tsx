@@ -1,4 +1,5 @@
 import Image from "next/image"
+import Link from "next/link"
 
 export default function Home() {
   return (
@@ -20,6 +21,11 @@ export default function Home() {
           height={400}
           className="shadow hover:scale-[1.05] hover:transition hover:ease-in-out hover:duration-500 cursor-pointer"
         />
+      </div>
+      <div>
+        <Link href={`tel:5528999220322`} className="bg-green-500 text-white px-4 py-2 rounded-sm">
+          Salve o contato
+        </Link>
       </div>
     </div>
   )
