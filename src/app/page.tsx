@@ -10,7 +10,7 @@ export default function Home() {
           alt="Representante 1"
           width={600}
           height={400}
-          className="hover:scale-[1.05] hover:transition hover:ease-in-out hover:duration-500 cursor-pointer"
+          className="shadow hover:scale-[1.05] hover:transition hover:ease-in-out hover:duration-500 cursor-pointer"
         />
         <div className="bg-zinc-400 w-[2px] h-[200px]"></div>
         <Image
@@ -18,7 +18,7 @@ export default function Home() {
           alt="Representante 2"
           width={600}
           height={400}
-          className="hover:scale-[1.05] hover:transition hover:ease-in-out hover:duration-500 cursor-pointer"
+          className="shadow hover:scale-[1.05] hover:transition hover:ease-in-out hover:duration-500 cursor-pointer"
         />
       </div>
     </div>
