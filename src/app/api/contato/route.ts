@@ -4,7 +4,8 @@ export async function GET() {
     const vCardData = `BEGIN:VCARD
 VERSION:3.0
 FN:José Henrique Salvio
-ORG:CEO – FOUNDER
+EMAIL:josehenrique@salviopartner.com
+TITLE:José Henrique Salvio
 TEL;TYPE=CELL:+55 31 99851-8916
 TEL;TYPE=WORK,VOICE:+55 28 3344-1022
 EMAIL:josehenrique@salviopartner.com
