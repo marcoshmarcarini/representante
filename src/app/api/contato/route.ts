@@ -10,7 +10,7 @@ TEL;TYPE=CELL:+55 31 99851-8916
 TEL;TYPE=WORK,VOICE:+55 28 3344-1022
 EMAIL:josehenrique@salviopartner.com
 URL;type=WORK:www.salviopartner.com
-NOTE:Instagram: @salviopartner             Your Business PARTNER
+NOTE:Instagram: @salviopartner                 Your Business PARTNER
 END:VCARD`
 
     const headers = new Headers({
