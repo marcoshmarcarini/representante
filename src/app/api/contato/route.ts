@@ -3,9 +3,9 @@ import { NextResponse } from "next/server"
 export async function GET() {
     const vCardData = `BEGIN:VCARD
 VERSION:3.0
-FN: SALVIO PARTNER LTDA
+FN:SALVIO PARTNER LTDA
 TITLE:José Henrique Salvio
-ROLE:CEO-FOUNDER
+ROLE:Your Business Partner
 TEL;TYPE=CELL:+55 31 99851-8916
 TEL;TYPE=WORK,VOICE:+55 28 3344-1022
 EMAIL:josehenrique@salviopartner.com
